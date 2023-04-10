@@ -1,0 +1,15 @@
+{
+  "name": "jsprogram",
+  "version": "1.0.0",
+  "description": "a node js",
+  "main": "new.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chandrashekhar"
+  },
+  "author": "chandrashekar sadafal",
+  "license": "ISC"
+}
